@@ -12,6 +12,7 @@
   "author": "Carter",
   "license": "ISC",
   "devDependencies": {
+    "coffee-script": "^1.12.6",
     "sinon": "^2.3.5"
   }
 }
