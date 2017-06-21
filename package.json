@@ -1,0 +1,17 @@
+{
+  "name": "rocketshop",
+  "version": "1.0.0",
+  "description": "Node demo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Carter",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^2.3.5"
+  }
+}
